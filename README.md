@@ -1,6 +1,7 @@
 # 💫 About Me:
 Software engineer with experience in full-stack development, software testing, and software automation. Skilled in building scalable applications using JavaScript/Typescript, Python, Ruby, and Java, with a strong understanding of API development, databases, and cloud technologies.<br> <br>Adept at translating user requirements into technical implementations. Experienced in Agile development, CI/CD integration, test-driven development, and automated testing to ensure high-quality software solutions.
 
+For a full overview of my projects, please visit my [![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://leokamino.com)
 
 ## 🌐 Links:
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://leokamino.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leokamino) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leo.kamino@gmail.com) 
